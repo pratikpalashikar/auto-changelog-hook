@@ -1,4 +1,14 @@
-### Add MIT License (HEAD -> master)
+### commiting changes for the projects (HEAD -> master)
+>Sun, 22 Mar 2020 15:20:14 -0700
+
+>Author: PratikPalashikar (pratikpalashikar@gmail.com)
+
+>Commiter: PratikPalashikar (pratikpalashikar@gmail.com)
+
+
+
+
+### Add MIT License (origin/master, origin/HEAD)
 >Tue, 18 Aug 2015 00:02:51 +0200
 
 >Author: Martin Seeler (developer@chasmo.de)
@@ -8,7 +18,7 @@
 
 
 
-### Add references to Keep a CHANGELOG (origin/master, origin/HEAD)
+### Add references to Keep a CHANGELOG
 >Mon, 17 Aug 2015 23:49:41 +0200
 
 >Author: Martin Seeler (developer@chasmo.de)

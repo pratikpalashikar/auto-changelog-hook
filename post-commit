@@ -2,7 +2,7 @@
 # by Martin Seeler
 
 # destination of the final changelog file
-OUTPUT_FILE=CHANGELOG.md
+OUTPUT_FILE=CHANGELOG_Pratik.md
 
 # generate the changelog
 git --no-pager log --no-merges --format="### %s%d%n>%aD%n%n>Author: %aN (%aE)%n%n>Commiter: %cN (%cE)%n%n%b%n%N%n" > $OUTPUT_FILE
