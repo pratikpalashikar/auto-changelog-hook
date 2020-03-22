@@ -1,4 +1,14 @@
-### Adding the changelog md file (HEAD -> master)
+### changing the readme (HEAD -> master)
+>Sun, 22 Mar 2020 15:25:17 -0700
+
+>Author: PratikPalashikar (pratikpalashikar@gmail.com)
+
+>Commiter: PratikPalashikar (pratikpalashikar@gmail.com)
+
+
+
+
+### Adding the changelog md file (origin/master, origin/HEAD)
 >Sun, 22 Mar 2020 15:23:29 -0700
 
 >Author: PratikPalashikar (pratikpalashikar@gmail.com)
@@ -8,7 +18,7 @@
 
 
 
-### commiting changes for the projects (origin/master, origin/HEAD)
+### commiting changes for the projects
 >Sun, 22 Mar 2020 15:20:14 -0700
 
 >Author: PratikPalashikar (pratikpalashikar@gmail.com)

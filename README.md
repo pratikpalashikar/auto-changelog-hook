@@ -1,3 +1,5 @@
+
+
 # Automatic CHANGELOG Git Hook
 
 > A simple bash script to automatically generate a `CHANGELOG.md` file with every git commit.
